@@ -1,7 +1,7 @@
 # <h1 align="center"> Telecommunication Data Analytics Project </h1>
 
 <p align="center">
-<img src="_src/images/telecomunicaciones.png"  height=300>
+<img src="_src/images/telecomunicaciones.PNG"  height=300>
 </p>
 
 ## **Descripción del Proyecto**
