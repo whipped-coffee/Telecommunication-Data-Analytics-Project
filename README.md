@@ -34,22 +34,19 @@ En este archivo de Power BI, encontrarás visualizaciones más intuitivas y grá
 ### KPI 1: Provincias con baja penetración de internet:
 
 Explica las 5 provincias con el menor índice de acceso a internet por cada 100 hogares, y grafica información como la cantidad de localidades, la conectividad a nivel provincial, y la distribución de tecnologías.
-Con este dashboard podemos notar que:
-+ Las 5 provincias con menor penetración de internet cada 100 hogares son: `Santa Cruz`, `Formosa`, `Chaco`, `Mendoza` y `San juan`
-+ El índice de conectividad provincial no es proporcional al índice de acceso a internet.
-+ En los ultimos 4 años no cambiaron las provincias con menor índice de acceso a internet.
  
 <p align="center">
   <img src="_src/images/kpi1IMG.PNG" alt="Imagen del primer kpi" width="600"/>
 </p>
 
+Con este dashboard podemos notar que:
++ Las 5 provincias con menor penetración de internet cada 100 hogares son: `Santa Cruz`, `Formosa`, `Chaco`, `Mendoza` y `San juan`
++ El índice de conectividad provincial no es proporcional al índice de acceso a internet.
++ En los ultimos 4 años no cambiaron las provincias con menor índice de acceso a internet.
+
 ### KPI 2: Ingresos Trimestraless:
 
 Explica la relación de los ingresos trimestrales por año con las tecnologías y la suba del promedio de velocidad de bajada por año.
-Con este dashboard podemos notar que:
-+ La suba de los ingresos parece tener relación con la llegada y crecimiento de la fibra óptica.
-+ A partir de finales del 2018 que es donde se empezo a expandir la fibra óptica empezó el crecimiento tan grande tanto en ingresos como en promedio de velocidad de bajadas.
-+ Una predicción de los ingresos del proximo trimestre obtenidos por el modelo realizado en el EDA.s
 
 <div style="display: flex; justify-content: space-between;">
   <img src="_src/images/modelo.PNG" alt="Imagen del modelo" width="400"/>
@@ -57,17 +54,22 @@ Con este dashboard podemos notar que:
 </div>
 </p>
 
+Con este dashboard podemos notar que:
++ La suba de los ingresos parece tener relación con la llegada y crecimiento de la fibra óptica.
++ A partir de finales del 2018 que es donde se empezo a expandir la fibra óptica empezó el crecimiento tan grande tanto en ingresos como en promedio de velocidad de bajadas.
++ Una predicción de los ingresos del proximo trimestre obtenidos por el modelo realizado en el EDA.s
+
 ### KPI 3: Ingresos Trimestraless:
 
 Al ser la fibra óptica uno de los mejores medios para transportar información, nos será útil conocer aquellas provincias con el menor promedio de conectividad por fibra óptica.
-Con este dashboard podemos notar que:
-+ Las 5 provincias con menor alcance de fibra óptica son: `Tucumán`, `Corrientes`, `San Luis`, `Chubut` y `San juan`
-+ En promedio aquellas tecnologías que predominan son `Wireless`, `4G` y `Telefonía Fija`.
 
 <p align="center">
   <img src="_src/images/kpi3IMG.PNG" alt="Imagen del tercer kpi" width="600"/>
 </p>
 
+Con este dashboard podemos notar que:
++ Las 5 provincias con menor alcance de fibra óptica son: `Tucumán`, `Corrientes`, `San Luis`, `Chubut` y `San juan`
++ En promedio aquellas tecnologías que predominan son `Wireless`, `4G` y `Telefonía Fija`.
 
 ## **Recursos y Fuentes de Datos**
 + [PowerBI](https://powerbi.microsoft.com/es-es/): Página web oficial de la aplicacion de Microsoft donde vas a poder descargar la aplicacions para la visualizacion del dashboard.
