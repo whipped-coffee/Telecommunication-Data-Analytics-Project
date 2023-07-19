@@ -14,7 +14,7 @@ En Argentina, el acceso a Internet ha experimentado un notable crecimiento, alca
 # <h2 align="center"> Exploratory Data Analysis [(EDA)](https://github.com/whipped-coffee/Telecommunication-Data-Analytics-Project/blob/main/EDA.ipynb) </h2>
 
 <p align="center">
-<img src="_src/images/EDA.png"  height=300>
+<img src="_src/images/EDA.PNG"  height=300>
 </p>
 
 Dentro de este archivo, se describe el procedimiento inicial para obtener una visión general de los datos, con el objetivo de analizarlos y extraer información relevante que nos ayude a desarrollar nuestros indicadores clave de rendimiento (KPIs) y crear un panel de control (dashboard). Además, se encuentra el proceso de transformación de los datos de acuerdo a nuestras necesidades analíticas específicas.
@@ -22,16 +22,16 @@ Dentro de este archivo, se describe el procedimiento inicial para obtener una vi
 # <h2 align="center"> Dashboard Interactivo [(dashboard)](https://github.com/whipped-coffee/Telecommunication-Data-Analytics-Project/blob/main/EDA.ipynb) </h2>
 
 <p align="center">
-<img src="_src/images/powerBI.png"  height=140>
+<img src="_src/images/powerBI.PNG"  height=140>
 </p>
 
 En este archivo de Power BI, encontrarás visualizaciones más intuitivas y gráficas de los datos, así como los KPIs diseñados para proporcionar información relevante sobre el mercado. Estos KPIs están destinados a facilitar la toma de decisiones estratégicas y determinar el curso de acción que la empresa debe seguir.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="_src/images/summaryIMG.png" alt="Imagen del resumen del mercado" width="250"/>
-  <img src="_src/images/kpi1IMG.png" alt="Imagen del primer kpi" width="250"/>
-  <img src="_src/images/kpi2IMG.png" alt="Imagen del segundo kpi" width="250"/>
-  <img src="_src/images/kpi3IMG.png" alt="Imagen del tercer kpi" width="250"/>
+  <img src="_src/images/summaryIMG.PNG" alt="Imagen del resumen del mercado" width="400"/>
+  <img src="_src/images/kpi1IMG.PNG" alt="Imagen del primer kpi" width="400"/>
+  <img src="_src/images/kpi2IMG.PNG" alt="Imagen del segundo kpi" width="400"/>
+  <img src="_src/images/kpi3IMG.PNG" alt="Imagen del tercer kpi" width="400"/>
 </div>
 
 ## **Recursos y Fuentes de Datos**
